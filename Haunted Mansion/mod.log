@@ -1,0 +1,44 @@
+[16-06-17 13:29:45] Info: Compiling Haunted Mansion to bin/build-160617132945614.dll...
+[16-06-17 13:29:45] Info: Compiling from `ModSparkLoader.csproj`.
+[16-06-17 13:29:45] Info: Resolved assembly reference `Assembly-CSharp` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-06-17 13:29:45] Info: IGNORING assembly reference `Depender`
+[16-06-17 13:29:45] Info: Resolved assembly reference `System` to `System.dll`
+[16-06-17 13:29:45] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-06-17 13:29:45] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-06-17 13:29:45] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-06-17 13:29:45] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-06-17 13:29:45] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-06-17 13:29:45] Info: Resolved assembly reference `UnityEngine` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-06-17 13:29:45] Info: Resolved assembly reference `UnityEngine.UI` to `c:/program files (x86)/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-06-17 13:29:45] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `C:\Users\bmaynard\Documents\Parkitect\pnmods\Haunted Mansion`.
+[16-06-17 13:29:45] Info: Compile using compiler version v3.5.
+[16-06-17 09:08:18] Info: Loaded build-160617090722495, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-17 09:08:18] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-17 09:12:53] Info: Loaded build-160617091238026, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-17 09:12:53] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-17 10:52:13] Info: Loaded build-160617105158128, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-17 10:52:13] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-17 12:21:59] Info: Loaded build-160617105158128, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-17 12:21:59] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-17 12:28:50] Info: Loaded build-160617122823295, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-17 12:28:50] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-17 12:41:03] Info: Loaded build-160617124023349, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-17 12:41:03] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-17 12:46:23] Info: Loaded build-160617124608348, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-17 12:46:23] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-17 12:49:21] Info: Loaded build-160617124907966, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-17 12:49:21] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-17 12:51:30] Info: Loaded build-160617125115603, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-17 12:51:30] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-17 12:59:15] Info: Loaded build-160617125858945, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-17 12:59:15] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-17 13:11:36] Info: Loaded build-160617130932223, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-17 13:11:36] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-17 13:16:20] Info: Loaded build-160617131606718, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-17 13:16:20] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-17 13:19:25] Info: Loaded build-160617131849984, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-17 13:19:25] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-17 13:22:37] Info: Loaded build-160617132217602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-17 13:22:37] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-06-17 13:30:08] Info: Loaded build-160617132945614, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-06-17 13:30:08] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
