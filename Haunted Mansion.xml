@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Haunted Mansion</ModName>
+  <ModDiscription>Scenery Building</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Haunted Mansion@TheHauntedMansion2</OBJName>
+      <Type>deco</Type>
+      <inGameName>TheHauntedMansion2</inGameName>
+      <price>250</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Haunted Mansion</category>
+      <heightDelta>0</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+      <BoudingBoxes>
+        <BoudingBox>
+          <min>(1.9, 0.0, -0.4)</min>
+          <max>(-5.4, 0.0, -7.2)</max>
+        </BoudingBox>
+      </BoudingBoxes>
+    </Object>
+  </Objects>
+</Mod>

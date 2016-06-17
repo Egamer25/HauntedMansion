@@ -1,2 +1,4 @@
-# HauntedMansion
-Haunted Mansion Scenery Building Using a Google Sketchup Model from the 3D warehouse by Alexandrew.
+# CustomSceneryModTemplate
+Mod template for custom scenery
+
+See https://parkitectnexus.com/modding-wiki for documentation
